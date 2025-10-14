@@ -30,3 +30,12 @@ background-color: #65edc1;
     padding: 25%;
 
 }
+.btn.btn-primary{
+  background-color: blue;
+  border: blue;
+  color: white;
+}
+.btn.btn-primary:hover{
+  background-color: blue;
+  color: white;
+}
